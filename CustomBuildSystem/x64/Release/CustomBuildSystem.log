@@ -1,0 +1,10 @@
+﻿  Config.cpp
+  CustomBuildSystem.cpp
+  DataManager.cpp
+  FileSystemManager.cpp
+  utils.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2271 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CustomBuildSystem.vcxproj -> F:\Codings\C++\CustomBuildSystem\x64\Release\CustomBuildSystem.exe
